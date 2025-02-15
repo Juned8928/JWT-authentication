@@ -1,0 +1,12 @@
+# Byte-compiled files
+__Pycache__/
+.pyc
+.pyo
+
+# flask instance folder(contains runtime data like SQLite DBs)
+instance/
+.db
+
+
+# Environment files
+appenv/
