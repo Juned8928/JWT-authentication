@@ -9,4 +9,4 @@ instance/
 
 
 # Environment files
-appenv/
+jwtenv/
